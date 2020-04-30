@@ -1,0 +1,8 @@
+
+%_______Run the programs in order to get the output________%
+
+%_______check for change in class name&filename while working on netbeans_________%
+ 
+%________Customer_Frontend is the primary webpage of application layer of this system...proceeds to other redirected pages.____________%
+
+              %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
